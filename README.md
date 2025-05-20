@@ -170,8 +170,8 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 
 ## 📬 Contact
 
-**Your Name** • [LinkedIn](www.linkedin.com/in/anju-barai-3b46b6282) • [Email](mailto:anjubarai004@gmail.com)
-Repository: [https://github.com/yourusername/powerbi-analytics](https://github.com/anjub004/powerbi-analytics)
+**Your Name** • [LinkedIn](https://linkedin.com/in/anju-barai-3b46b6282) • [Email](mailto:anjubarai004@gmail.com)
+Repository: [https://github.com/anjub004/powerbi-analytics](https://github.com/anjub004/powerbi-analytics)
 
 ```
 ```
